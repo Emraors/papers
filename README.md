@@ -18,3 +18,4 @@ via Arrows as Profunctors](https://pdf.sciencedirectassets.com/272990/1-s2.0-S15
 
 # Emulators 
 - [Guide to making a CHIP-8 emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/#8xy4-add)
+- [Write You a Haskell](https://smunix.github.io/dev.stephendiehl.com/fun/WYAH.pdf)
