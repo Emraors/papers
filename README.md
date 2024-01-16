@@ -15,3 +15,6 @@ via Arrows as Profunctors](https://pdf.sciencedirectassets.com/272990/1-s2.0-S15
 
 - [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
 - [Compiling Lisp](https://github.com/norvig/paip-lisp/blob/main/docs/chapter23.md#figure-23-3)
+
+# Emulators 
+- [Guide to making a CHIP-8 emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/#8xy4-add)
