@@ -22,3 +22,5 @@ via Arrows as Profunctors](https://pdf.sciencedirectassets.com/272990/1-s2.0-S15
 # Emulators 
 - [Guide to making a CHIP-8 emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/#8xy4-add)
 
+# Functional Pearls 
+- [A poor man’s concurrency monad](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A369E310ADAE4455020C918FC1D47958/S0956796899003342a.pdf/a-poor-mans-concurrency-monad.pdf)
