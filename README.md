@@ -24,3 +24,4 @@ via Arrows as Profunctors](https://pdf.sciencedirectassets.com/272990/1-s2.0-S15
 
 # Functional Pearls 
 - [A poor man’s concurrency monad](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A369E310ADAE4455020C918FC1D47958/S0956796899003342a.pdf/a-poor-mans-concurrency-monad.pdf)
+- [A program to solve Sudoku](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2A2C12F0CAA9A48C1D6697CBFC6A559C/S0956796806006058a.pdf/functional-pearl-a-program-to-solve-sudoku.pdf)
